@@ -6,7 +6,8 @@ body {
 
 .all {
     width: 80%;
-    height: 25%;
+    height: 80%%;
+    margin: auto;
 }
 
 p {
@@ -18,8 +19,14 @@ table {
     background-color: silver;
 }
 
-th {}
+th {
+    font-size: 150%;
+}
 
-tr {}
+tr {
+    font-size: 110%;
+}
 
-td {}
+td {
+    margin: 10px;
+}
